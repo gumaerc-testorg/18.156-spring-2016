@@ -3,8 +3,13 @@ content_type: resource
 description: 'This resource contains information regarding differential analysis II:
   Partial differential equations and Fourier analysis, optional problems for study
   and review.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-156-differential-analysis-ii-partial-differential-equations-and-fourier-analysis-spring-2016/e96bfd70fcffcf193aaa6b7e43b8da4f_MIT18_156S16_reviewprobs.pdf
+file: /media/courses/18-156-differential-analysis-ii-partial-differential-equations-and-fourier-analysis-spring-2016/e96bfd70fcffcf193aaa6b7e43b8da4f_MIT18_156S16_reviewprobs.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 'Differential Analysis II: Partial Differential Equations and Fourier Analysis,
   Optional Problems for Study and Review'
