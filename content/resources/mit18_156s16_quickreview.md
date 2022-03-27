@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 31a97448-b11a-2990-710b-fac0cb642313
 resourcetype: Document
 title: 'Differential Analysis II: Partial Differential Equations and Fourier Analysis,
   Fourier Analysis Quick Review'

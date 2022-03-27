@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0a287af7-2191-694d-1d94-dcd0ba01e5ef
 resourcetype: Document
 title: Lecture Summary, Course Description for Real Analysis
 uid: d4ab667d-b0f1-4057-3717-b57b8805a079
