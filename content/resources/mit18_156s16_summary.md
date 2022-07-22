@@ -6,6 +6,7 @@ file: /courses/18-156-differential-analysis-ii-partial-differential-equations-an
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Lecture Summary, Course Description for Real Analysis
 uid: d4ab667d-b0f1-4057-3717-b57b8805a079
 ---
 This resource contains information regarding lecture summary, course description for real analysis.
-

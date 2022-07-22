@@ -7,6 +7,7 @@ file: /courses/18-156-differential-analysis-ii-partial-differential-equations-an
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 'Differential Analysis II: Partial Differential Equations and Fourier Ana
 uid: e96bfd70-fcff-cf19-3aaa-6b7e43b8da4f
 ---
 This resource contains information regarding differential analysis II: Partial differential equations and Fourier analysis, optional problems for study and review.
-
