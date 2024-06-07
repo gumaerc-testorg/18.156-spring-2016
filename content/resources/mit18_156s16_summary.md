@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding lecture summary, course
   description for real analysis.
 file: /courses/18-156-differential-analysis-ii-partial-differential-equations-and-fourier-analysis-spring-2016/d4ab667db0f140573717b57b8805a079_MIT18_156S16_summary.pdf
+file_size: 310814
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
