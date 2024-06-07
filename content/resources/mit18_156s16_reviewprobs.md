@@ -4,6 +4,7 @@ description: 'This resource contains information regarding differential analysis
   Partial differential equations and Fourier analysis, optional problems for study
   and review.'
 file: /courses/18-156-differential-analysis-ii-partial-differential-equations-and-fourier-analysis-spring-2016/e96bfd70fcffcf193aaa6b7e43b8da4f_MIT18_156S16_reviewprobs.pdf
+file_size: 278182
 file_type: application/pdf
 learning_resource_types:
 - Assignments
